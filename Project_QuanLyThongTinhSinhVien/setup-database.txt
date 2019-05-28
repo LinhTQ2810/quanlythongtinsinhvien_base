@@ -1,0 +1,9 @@
+table thongtin
+	- masinhvien (nvarchar)
+	- hoten (nvarchar)
+	- ngaysinh(nvarchar)
+	- gioitinh(nvarchar)
+	- que quan(nvarchar)
+table tenlop
+	- id (int)
+	- tenlop_nc (nvarchar)

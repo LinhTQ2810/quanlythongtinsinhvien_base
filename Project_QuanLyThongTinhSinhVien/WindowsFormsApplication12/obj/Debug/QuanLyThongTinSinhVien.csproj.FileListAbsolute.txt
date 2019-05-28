@@ -1,0 +1,33 @@
+C:\Users\Qua\Documents\Visual Studio 2012\Projects\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe.config
+C:\Users\Qua\Documents\Visual Studio 2012\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.exe
+C:\Users\Qua\Documents\Visual Studio 2012\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.pdb
+C:\Users\Qua\Documents\Visual Studio 2012\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\QuanLyThongTinSinhVien.csprojResolveAssemblyReference.cache
+C:\Users\Qua\Documents\Visual Studio 2012\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Form1.resources
+C:\Users\Qua\Documents\Visual Studio 2012\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Form2.resources
+C:\Users\Qua\Documents\Visual Studio 2012\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Form3.resources
+C:\Users\Qua\Documents\Visual Studio 2012\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Form4.resources
+C:\Users\Qua\Documents\Visual Studio 2012\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Form5.resources
+C:\Users\Qua\Documents\Visual Studio 2012\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Form6.resources
+C:\Users\Qua\Documents\Visual Studio 2012\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Main_from.resources
+C:\Users\Qua\Documents\Visual Studio 2012\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Properties.Resources.resources
+C:\Users\Qua\Documents\Visual Studio 2012\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\QuanLyThongTinSinhVien.csproj.GenerateResource.Cache
+C:\Users\Qua\Documents\Visual Studio 2012\Projects\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe
+C:\Users\Qua\Documents\Visual Studio 2012\Projects\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.pdb
+C:\Users\Qua\Documents\Visual Studio 2012\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Form7.resources
+C:\Users\LINHTQ\Desktop\Project_Deadline\Project_QuanLyThongTinhSinhVien\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe.config
+C:\Users\LINHTQ\Desktop\Project_Deadline\Project_QuanLyThongTinhSinhVien\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe
+C:\Users\LINHTQ\Desktop\Project_Deadline\Project_QuanLyThongTinhSinhVien\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.pdb
+C:\Users\LINHTQ\Desktop\Project_Deadline\Project_QuanLyThongTinhSinhVien\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Form1.resources
+C:\Users\LINHTQ\Desktop\Project_Deadline\Project_QuanLyThongTinhSinhVien\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Form2.resources
+C:\Users\LINHTQ\Desktop\Project_Deadline\Project_QuanLyThongTinhSinhVien\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Form3.resources
+C:\Users\LINHTQ\Desktop\Project_Deadline\Project_QuanLyThongTinhSinhVien\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Form4.resources
+C:\Users\LINHTQ\Desktop\Project_Deadline\Project_QuanLyThongTinhSinhVien\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Form5.resources
+C:\Users\LINHTQ\Desktop\Project_Deadline\Project_QuanLyThongTinhSinhVien\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Form7.resources
+C:\Users\LINHTQ\Desktop\Project_Deadline\Project_QuanLyThongTinhSinhVien\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Main_from.resources
+C:\Users\LINHTQ\Desktop\Project_Deadline\Project_QuanLyThongTinhSinhVien\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Properties.Resources.resources
+C:\Users\LINHTQ\Desktop\Project_Deadline\Project_QuanLyThongTinhSinhVien\WindowsFormsApplication12\obj\Debug\QuanLyThongTinSinhVien.csproj.GenerateResource.cache
+C:\Users\LINHTQ\Desktop\Project_Deadline\Project_QuanLyThongTinhSinhVien\WindowsFormsApplication12\obj\Debug\QuanLyThongTinSinhVien.csproj.CoreCompileInputs.cache
+C:\Users\LINHTQ\Desktop\Project_Deadline\Project_QuanLyThongTinhSinhVien\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.exe
+C:\Users\LINHTQ\Desktop\Project_Deadline\Project_QuanLyThongTinhSinhVien\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.pdb
+C:\Users\LINHTQ\Desktop\Project_Deadline\Project_QuanLyThongTinhSinhVien\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Form6.resources
+C:\Users\LINHTQ\Desktop\Project_Deadline\Project_QuanLyThongTinhSinhVien\WindowsFormsApplication12\obj\Debug\QuanLyThongTinSinhVien.csprojAssemblyReference.cache

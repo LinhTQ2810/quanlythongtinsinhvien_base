@@ -1,0 +1,15 @@
+c:\users\qua\documents\visual studio 2012\Projects\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe.config
+c:\users\qua\documents\visual studio 2012\Projects\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe
+c:\users\qua\documents\visual studio 2012\Projects\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.pdb
+c:\users\qua\documents\visual studio 2012\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.csprojResolveAssemblyReference.cache
+c:\users\qua\documents\visual studio 2012\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Form1.resources
+c:\users\qua\documents\visual studio 2012\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Form2.resources
+c:\users\qua\documents\visual studio 2012\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Form3.resources
+c:\users\qua\documents\visual studio 2012\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Form4.resources
+c:\users\qua\documents\visual studio 2012\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Form5.resources
+c:\users\qua\documents\visual studio 2012\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Form6.resources
+c:\users\qua\documents\visual studio 2012\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Properties.Resources.resources
+c:\users\qua\documents\visual studio 2012\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.csproj.GenerateResource.Cache
+c:\users\qua\documents\visual studio 2012\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.exe
+c:\users\qua\documents\visual studio 2012\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.pdb
+c:\users\qua\documents\visual studio 2012\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Main_from.resources
